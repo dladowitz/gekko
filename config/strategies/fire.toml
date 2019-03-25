@@ -1,0 +1,6 @@
+
+buy_price        = 3700
+arming_percent   = 0.005
+trailing_percent = 0.005
+sell_at_loss     =  false
+armed            = false
