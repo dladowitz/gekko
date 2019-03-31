@@ -1,0 +1,10 @@
+short = 10
+long = 21
+signal = 9
+arming_percent = 0.03
+trailing_sell_percent = 0.01
+
+[thresholds]
+down = -0.025
+up = 0.025
+persistence = 1
