@@ -1,0 +1,7 @@
+
+target_buy_price = 3700.00
+buy_direction    = "down"
+arming_percent   = 0.03
+trailing_percent = 0.01
+sell_at_loss     = false
+armed            = false
